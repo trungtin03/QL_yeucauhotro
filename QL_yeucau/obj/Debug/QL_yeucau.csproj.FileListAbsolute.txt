@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\ThucTap co so\QL_yeucau\QL_yeucauhotro\QL_yeucau\obj\Debug\QL_yeucau.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ThucTap co so\QL_yeucau\QL_yeucauhotro\QL_yeucau\obj\Debug\QL_yeucau.csproj.CoreCompileInputs.cache
